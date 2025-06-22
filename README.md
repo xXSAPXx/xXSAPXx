@@ -1,5 +1,5 @@
 ## Hello there, I'm Simeon 👋
-I'm a Database Administrator working with Databases such as MySQL and PostgreSQL, as well as various DevOps tools.
+💾 Database Administrator | 🎯 DevOps & ☁️ Cloud Enthusiast | Working with Databases such as MySQL and PostgreSQL, as well as various DevOps tools.
 
 - 🔭 I’m currently working on a whole web application environment, including IaC, monitoring, CI/CD pipelines, etc.
 - 🌱 I’m currently learning AWS / Terraform / Cloudflare / Prometheus and Grafana
